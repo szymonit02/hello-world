@@ -1,4 +1,3 @@
 # hello-world
 This is my first repository
-Hi !
-my name is Szymon , I like python and sphagetti and sushi. I like BMW cars.
+my name is Szymon , I like python . I like BMW cars.
